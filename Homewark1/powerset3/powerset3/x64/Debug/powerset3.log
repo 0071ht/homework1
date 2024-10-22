@@ -1,0 +1,2 @@
+﻿D:\Visual Studio2019\Visual Studio2022\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" 以返回碼 1168 結束。
+LINK : fatal error LNK1168: 無法開啟 D:\資料結構作業\Homewark1\powerset3\x64\Debug\powerset3.exe 進行寫入
